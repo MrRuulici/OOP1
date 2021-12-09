@@ -6,7 +6,7 @@ namespace OOP1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Introduceti numarul de valori cerute din" +" sirul lui Fibonacci!");
+            Console.WriteLine("Introduceti numarul de valori cerute din" +" sirul lui Fibonacci");
             int n;
             n = Int32.Parse(Console.ReadLine());
 
